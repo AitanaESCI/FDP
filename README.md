@@ -60,7 +60,6 @@ conda env create -f environment.yml && conda activate continuous-pathogenicity
 
 Execute the notebooks in order:
 
-- `preanalysis.ipynb`
 - `block1_part1_analysis.ipynb`
 - `block1_part2_analysis.ipynb`
 - `block2_analysis.ipynb`
