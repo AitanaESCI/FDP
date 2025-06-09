@@ -38,6 +38,7 @@ This project benchmarks five continuous predictors (CADD, MetaRNN, Envision, QAF
   Preprocessing notebooks and raw data are maintained in separate repositories:  
   - [ClinVar Data Cleaning repo](https://github.com/AitanaESCI/clinvar_data_cleaning)
   - [Humsavar Data Cleaning repo](https://github.com/AitanaESCI/humsavar_data_cleaning)
+ 
   Each contains detailed Zenodo links for the source datasets.  
 
 - **Quantitative predictor merge**  
@@ -49,13 +50,13 @@ This project benchmarks five continuous predictors (CADD, MetaRNN, Envision, QAF
 - **DMS data**  
   Residue-level functional scores were extracted from [Beltran et al. (2025)](https://www.nature.com/articles/s41586-024-08370-4). See their publication for raw data access; processed inputs are not stored here.
 
-## Environment Setup
+## Environment setup
 
 ```bash
 conda env create -f environment.yml && conda activate <env-name>
 ```
 
-## Running the Analysis
+## Running the analysis
 
 Execute the notebooks in order:
 
