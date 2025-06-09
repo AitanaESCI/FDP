@@ -53,7 +53,7 @@ This project benchmarks five continuous predictors (CADD, MetaRNN, Envision, QAF
 ## Environment setup
 
 ```bash
-conda env create -f environment.yml && conda activate <env-name>
+conda env create -f environment.yml && conda activate continuous-pathogenicity
 ```
 
 ## Running the analysis
