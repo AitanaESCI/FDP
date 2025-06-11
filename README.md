@@ -19,8 +19,7 @@ A comprehensive evaluation of continuous pathogenicity scores versus established
 ├── results/
 │   ├── figures/
 │   └── tables/
-└── supplement/
-    └── Supplementary_Materials.pdf
+└── SupplementaryMaterials.pdf
 ```
 
 ## Overview
